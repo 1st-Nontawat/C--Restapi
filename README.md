@@ -1,1 +1,1 @@
-![Swagger logo](https://swagger.io/favicon.ico)
+![Swagger logo](https://example.com/swagger_logo.png)
