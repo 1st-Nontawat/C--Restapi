@@ -1,1 +1,2 @@
-![Swagger logo](https://example.com/swagger_logo.png)
+[Swagger API](https://swagger.io/)
+
